@@ -1,13 +1,18 @@
-# DuckDuckHack Fathead Instant Answers
+# In Maintenance
 
-Join us on Slack! [Request invite](mailto:QuackSlack@duckduckgo.com?subject=AddMe)
+DuckDuckHack is now in maintenance mode. During this time, we are only accepting pull requests for essential bug fixes.
 
-This repository contains all the Fathead instant answers. If you are developing a Fathead instant answer you will need to fork this repository.
+For more information see [duckduckhack.com](https://duckduckhack.com). 
 
-If you would like to contribute to DuckDuckHack, please start by reading the [DuckDuckHack Documentation](https://dukgo.com/duckduckhack/ddh-intro).
+## What are essential bug fixes?
 
-------
+Any changes necessary to keep existing Instant Answers functioning correctly and as expected. For example:
 
-## Fathead Instant Answer Example
+  - Updating the URL for a Spice Instant Answer when the API changes
+  - Correcting a Perl or JavaScript logic error
+  - Fixing CSS that's causing the display to break
 
-![JavaScript MDN Example](https://raw.githubusercontent.com/duckduckgo/duckduckgo-documentation/master/duckduckhack/assets/fathead_readme_example.png)
+Any other changes will not be accepted. For example:
+
+  - spelling/comment changes
+  - unsolicited improvements, changes, and code refactoring
